@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+
+# Node
+node_modules/
+
+# Playwright/Test artifacts
+.playwright-google-profile/
+test-results/
+
+# Local runtime/output files
+*.log
+downloads/
+calendar-debug.json
+.smartstore_credentials.json
