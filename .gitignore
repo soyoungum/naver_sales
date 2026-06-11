@@ -19,3 +19,7 @@ test-results/
 downloads/
 calendar-debug.json
 .smartstore_credentials.json
+.slack_config.json
+.dashboard_cache/
+.terminal/
+.claude/
